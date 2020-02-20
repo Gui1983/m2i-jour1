@@ -1,4 +1,4 @@
-hello world !
+hello world ! modif local
 
 Nouvelle modification :
 Ceci est un fichier texte.
