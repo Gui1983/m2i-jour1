@@ -1,5 +1,6 @@
 hello world !
 
-Nouvelle modification
+Nouvelle modification :
+Ceci est un fichier texte.
 
-New
+$ git fetch
